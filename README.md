@@ -1,6 +1,6 @@
-# Knight Online Game Assets
+# Knight Online Assets
 
-This is the official old Knight Online game assets.
+This is the official old Knight Online server and game assets.
 
 The `master` branch is based on 1097 version.
 
