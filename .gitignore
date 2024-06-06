@@ -1,3 +1,7 @@
 *.log
 *.exe
 *[Ll]og*.txt
+*.ksc
+imgui.ini
+Notice.txt
+*_SERVER_*.txt
